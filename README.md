@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi, This is Supriyo</h1>
 <h3 align="center">Beginner Developer | Eager to Learn & Grow | Exploring the World of Code</h3>
 <img align ="right" alt="coding" width "100%" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
@@ -16,3 +17,4 @@
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=supriyobaruab&show_icons=true&locale=en" alt="supriyobaruab" /></p>-->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyobaruab&" alt="supriyobaruab" /></p>
+-->
