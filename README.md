@@ -1,8 +1,8 @@
-<!--
+
 <h1 align="center">Hi, This is Supriyo</h1>
 <h3 align="center">Beginner Developer | Eager to Learn & Grow | Exploring the World of Code</h3>
-<img align ="right" alt="coding" width "100%" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
-
+<img align="center" alt="coding" width ="100%" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/suxpriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suxpriyo" height="30" width="40" /></a>
