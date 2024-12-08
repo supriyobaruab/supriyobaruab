@@ -1,4 +1,6 @@
-
+<p>Switched to another account</p>
+<a href="https://github.com/suxpriyo">Account link</a>
+<!--
 <h1 align="center">Hi, This is Supriyo</h1>
 <h3 align="center">Beginner Developer | Eager to Learn & Grow | Exploring the World of Code</h3>
 <img align="center" alt="coding" width ="100%" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
